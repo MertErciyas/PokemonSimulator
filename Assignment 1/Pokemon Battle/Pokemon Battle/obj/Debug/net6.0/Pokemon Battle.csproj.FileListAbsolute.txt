@@ -1,0 +1,15 @@
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\bin\Debug\net6.0\Pokemon Battle.exe
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\bin\Debug\net6.0\Pokemon Battle.deps.json
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\bin\Debug\net6.0\Pokemon Battle.runtimeconfig.json
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\bin\Debug\net6.0\Pokemon Battle.dll
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\bin\Debug\net6.0\Pokemon Battle.pdb
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\obj\Debug\net6.0\Pokemon Battle.csproj.AssemblyReference.cache
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\obj\Debug\net6.0\Pokemon Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\obj\Debug\net6.0\Pokemon Battle.AssemblyInfoInputs.cache
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\obj\Debug\net6.0\Pokemon Battle.AssemblyInfo.cs
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\obj\Debug\net6.0\Pokemon Battle.csproj.CoreCompileInputs.cache
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\obj\Debug\net6.0\Pokemon Battle.dll
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\obj\Debug\net6.0\refint\Pokemon Battle.dll
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\obj\Debug\net6.0\Pokemon Battle.pdb
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\obj\Debug\net6.0\Pokemon Battle.genruntimeconfig.cache
+C:\Users\merte\OneDrive\Bureaublad\School\Software Development\Jaar2\C#\Pokemon\PokemonSimulator\Assignment 1\Pokemon Battle\Pokemon Battle\obj\Debug\net6.0\ref\Pokemon Battle.dll
